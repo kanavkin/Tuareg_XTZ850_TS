@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dsh xmlns="http://www.EFIAnalytics.com/:dsh">
-    <bibliography author="TunerStudio 3.1.06 - EFI Analytics - support@efianalytics.com" company="EFI Analytics, © 2007 - 2021, All Rights Reserved." writeDate="Thu Nov 11 23:52:10 CET 2021"/>
+    <bibliography author="TunerStudio 3.1.06 - EFI Analytics - support@efianalytics.com" company="EFI Analytics, © 2007 - 2021, All Rights Reserved." writeDate="Thu Nov 18 23:54:53 CET 2021"/>
     <versionInfo fileFormat="3.0" firmwareSignature="rusEFI v1.04"/>
     <gaugeCluster antiAliasing="true" backgroundDitherColor="-8355712" clusterBackgroundColor="-16777216" clusterBackgroundImageFileName="" clusterBackgroundImageStyle="Tile" forceAspect="false" forceAspectHeight="9.0" forceAspectWidth="16.0">
         <dashComp type="Gauge">
@@ -42,7 +42,7 @@
             <NeedleImageFileName type="String">null</NeedleImageFileName>
             <NeedleSmoothing type="int">1</NeedleSmoothing>
             <RelativeBorderWidth2 type="double">NaN</RelativeBorderWidth2>
-            <ShortestSize type="int">226</ShortestSize>
+            <ShortestSize type="int">216</ShortestSize>
             <SmoothedValue type="double">0.0</SmoothedValue>
             <StartAngle type="int">0</StartAngle>
             <SweepAngle type="int">300</SweepAngle>
@@ -117,7 +117,7 @@
             <NeedleImageFileName type="String">null</NeedleImageFileName>
             <NeedleSmoothing type="int">1</NeedleSmoothing>
             <RelativeBorderWidth2 type="double">NaN</RelativeBorderWidth2>
-            <ShortestSize type="int">45</ShortestSize>
+            <ShortestSize type="int">43</ShortestSize>
             <SmoothedValue type="double">0.0</SmoothedValue>
             <StartAngle type="int">0</StartAngle>
             <SweepAngle type="int">300</SweepAngle>
@@ -175,7 +175,7 @@
             <HighCriticalVP type="ValueProvider">110.0</HighCriticalVP>
             <HighWarning type="double">105.0</HighWarning>
             <HighWarningVP type="ValueProvider">105.0</HighWarningVP>
-            <HistoricalPeakValue type="double">100.58484649658203</HistoricalPeakValue>
+            <HistoricalPeakValue type="double">100.90399169921875</HistoricalPeakValue>
             <HistoryDelay type="int">15000</HistoryDelay>
             <LabelDigits type="int">1</LabelDigits>
             <LowCritical type="double">0.0</LowCritical>
@@ -192,7 +192,7 @@
             <NeedleImageFileName type="String">null</NeedleImageFileName>
             <NeedleSmoothing type="int">1</NeedleSmoothing>
             <RelativeBorderWidth2 type="double">NaN</RelativeBorderWidth2>
-            <ShortestSize type="int">226</ShortestSize>
+            <ShortestSize type="int">216</ShortestSize>
             <SmoothedValue type="double">0.0</SmoothedValue>
             <StartAngle type="int">0</StartAngle>
             <SweepAngle type="int">300</SweepAngle>
@@ -250,7 +250,7 @@
             <HighCriticalVP type="ValueProvider">110.0</HighCriticalVP>
             <HighWarning type="double">105.0</HighWarning>
             <HighWarningVP type="ValueProvider">105.0</HighWarningVP>
-            <HistoricalPeakValue type="double">100.58484649658203</HistoricalPeakValue>
+            <HistoricalPeakValue type="double">100.90399169921875</HistoricalPeakValue>
             <HistoryDelay type="int">15000</HistoryDelay>
             <LabelDigits type="int">1</LabelDigits>
             <LowCritical type="double">0.0</LowCritical>
@@ -267,7 +267,7 @@
             <NeedleImageFileName type="String">null</NeedleImageFileName>
             <NeedleSmoothing type="int">1</NeedleSmoothing>
             <RelativeBorderWidth2 type="double">NaN</RelativeBorderWidth2>
-            <ShortestSize type="int">45</ShortestSize>
+            <ShortestSize type="int">43</ShortestSize>
             <SmoothedValue type="double">0.0</SmoothedValue>
             <StartAngle type="int">0</StartAngle>
             <SweepAngle type="int">300</SweepAngle>
