@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Wed May 18 17:50:33 CEST 2022
-#Wed May 18 17:50:33 CEST 2022
+#Last Saved on: Thu May 19 21:11:58 CEST 2022
+#Thu May 19 21:11:58 CEST 2022
 dwellSettingsDwell\ Settings_X=769
 faultlogView\ Fault\ Log_Y=352
 faultlogView\ Fault\ Log_X=597
@@ -79,7 +79,7 @@ fuelpumpFuel\ pump_Y=435
 service_ignitionService\ Tools\ -\ Ignition_height=468
 Tuareg.VeTable_MAP_std_Custom=\!fuelVeMap
 CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=230400
-fueling_setupFueling\ Setup_height=936
+fueling_setupFueling\ Setup_height=738
 CommSettingBaud\ Rate=115200
 serviceService_Y=199
 serviceService_X=663
@@ -120,7 +120,7 @@ service_fuelService\ Tools\ -\ Fuelling_width=372
 WarmUpCompCurveWarm\ Up_height=644
 service_ignitionService\ Tools\ -\ Ignition_X=777
 service_ignitionService\ Tools\ -\ Ignition_Y=358
-fueling_setup_ae_legacylegacy\ AE_width=419
+fueling_setup_ae_legacylegacy\ AE_width=413
 tuareg_setupTuareg\ Setup_width=472
 projectName=Tuareg_XTZ850_TS
 invCLT_CurveCLT\ Characteristics_X=0
@@ -141,7 +141,7 @@ AccelCompCurveTPSAE\ TPS_Y=65
 syslogView\ Syslog_height=1050
 tuneFileDir=/home/oli/Tuareg/Tuareg_XTZ850_TS
 fueling_setupFueling\ Setup_X=619
-fueling_setupFueling\ Setup_Y=31
+fueling_setupFueling\ Setup_Y=0
 AccelCompCurveTPSAE\ TPS_X=0
 AccelCompCurveTPSAE\ TPS_width=1366
 InjectorPhaseCurveInjector\ phase_width=466
@@ -150,7 +150,7 @@ InjectorPhaseCurveInjector\ phase_Y=58
 BaroCorrCurve_Set\ X\ Axis\ Minimum=400.0
 InjectorPhaseCurveInjector\ phase_X=579
 airdensity_curveIAT\ density\ correction_height=376
-fueling_setupFueling\ Setup_width=483
+fueling_setupFueling\ Setup_width=477
 userDash1.FileName=ignition.dash
 datalogProfiles=|
 service_vital_actorsService\ Tools\ -\ Vital\ Actors_X=591
@@ -238,17 +238,17 @@ veTableDialogVE\ Table_height=561
 config_permissionConfig\ Permissions_Y=347
 config_permissionConfig\ Permissions_X=817
 veGenerator_cBoost=Naturally Aspirated
-fueling_setup_ae_legacylegacy\ AE_height=505
+fueling_setup_ae_legacylegacy\ AE_height=504
 injCharsInjector\ Characteristics_width=408
 invCLT_Curve_showText=true
 CommSettingMSCommDriver.controllerInterfaceId=RS232 Serial Interface
 CrankingFuelCurveCranking\ base\ fuel\ mass_height=562
 Tuareg.VeTable_MAP_std_xAxisMax=5000.0
 veGenerator_txtPkHp=84
-firmwareDescription=Tuareg V0.23.1 2022.05
+firmwareDescription=Tuareg V0.23.2 2022.05
 veGenerator_txtDisplacementCid=52
 CommSettingMSCommDriver.RS232\ Serial\ Interface2nd\ Com\ Port=/dev/tuareg_hil
-fueling_setup_ae_legacylegacy\ AE_X=1037
+fueling_setup_ae_legacylegacy\ AE_X=953
 serial3IOSerial3\ IO\ interface_Y=428
 2DTable_VeTable_MAP_tableInitialDir=/home/oli/Desktop/testdrive
 fueling_setup_ae_legacylegacy\ AE_Y=247
