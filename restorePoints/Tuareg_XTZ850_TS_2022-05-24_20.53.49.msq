@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-    <bibliography author="TunerStudio MS Ultra 3.1.08 - EFI Analytics, Inc." tuneComment="warm engine, no compensation -&gt; VE 37%" writeDate="Tue May 24 21:37:00 CEST 2022"/>
+    <bibliography author="TunerStudio MS Ultra 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &lt;br&gt;warm engine, no compensation -&gt; VE 37%" writeDate="Tue May 24 20:53:49 CEST 2022"/>
     <versionInfo fileFormat="5.0" firmwareInfo="Tuareg+V0.23.3+2022.05" nPages="22" signature="rusEFI v1.04"/>
     <page>
         <pcVariable name="tsCanId">"0"</pcVariable>
@@ -774,8 +774,8 @@
          29.85 
          39.85 
          49.85 
-         149.85 
-         11.85 
+         59.85 
+         69.85 
          74.85 
          79.85 
          84.85 
@@ -923,16 +923,16 @@
         <constant digits="0" name="Syslog_14_src" units="Module-ID">22.0</constant>
         <constant name="Syslog_14_d">"Off"</constant>
         <constant name="Syslog_14_dlog">"0"</constant>
-        <constant digits="0" name="Syslog_15_ts" units="Timestamp">6698.0</constant>
-        <constant name="Syslog_15_type">"WW"</constant>
-        <constant name="Syslog_15_loc">"2"</constant>
-        <constant digits="0" name="Syslog_15_src" units="Module-ID">5.0</constant>
+        <constant digits="0" name="Syslog_15_ts" units="Timestamp">35719.0</constant>
+        <constant name="Syslog_15_type">"II"</constant>
+        <constant name="Syslog_15_loc">"6"</constant>
+        <constant digits="0" name="Syslog_15_src" units="Module-ID">36.0</constant>
         <constant name="Syslog_15_d">"Off"</constant>
         <constant name="Syslog_15_dlog">"0"</constant>
-        <constant digits="0" name="Syslog_16_ts" units="Timestamp">0.0</constant>
+        <constant digits="0" name="Syslog_16_ts" units="Timestamp">129248.0</constant>
         <constant name="Syslog_16_type">"II"</constant>
-        <constant name="Syslog_16_loc">"0"</constant>
-        <constant digits="0" name="Syslog_16_src" units="Module-ID">0.0</constant>
+        <constant name="Syslog_16_loc">"3"</constant>
+        <constant digits="0" name="Syslog_16_src" units="Module-ID">17.0</constant>
         <constant name="Syslog_16_d">"Off"</constant>
         <constant name="Syslog_16_dlog">"0"</constant>
         <constant digits="0" name="Syslog_17_ts" units="Timestamp">0.0</constant>
@@ -1001,16 +1001,16 @@
         <constant digits="0" name="Syslog_27_src" units="Module-ID">0.0</constant>
         <constant name="Syslog_27_d">"Off"</constant>
         <constant name="Syslog_27_dlog">"0"</constant>
-        <constant digits="0" name="Syslog_28_ts" units="Timestamp">0.0</constant>
-        <constant name="Syslog_28_type">"II"</constant>
+        <constant digits="0" name="Syslog_28_ts" units="Timestamp">129248.0</constant>
+        <constant name="Syslog_28_type">"EE"</constant>
         <constant name="Syslog_28_loc">"0"</constant>
-        <constant digits="0" name="Syslog_28_src" units="Module-ID">0.0</constant>
+        <constant digits="0" name="Syslog_28_src" units="Module-ID">30.0</constant>
         <constant name="Syslog_28_d">"Off"</constant>
         <constant name="Syslog_28_dlog">"0"</constant>
-        <constant digits="0" name="Syslog_29_ts" units="Timestamp">0.0</constant>
-        <constant name="Syslog_29_type">"II"</constant>
-        <constant name="Syslog_29_loc">"0"</constant>
-        <constant digits="0" name="Syslog_29_src" units="Module-ID">0.0</constant>
+        <constant digits="0" name="Syslog_29_ts" units="Timestamp">129248.0</constant>
+        <constant name="Syslog_29_type">"EE"</constant>
+        <constant name="Syslog_29_loc">"14"</constant>
+        <constant digits="0" name="Syslog_29_src" units="Module-ID">29.0</constant>
         <constant name="Syslog_29_d">"Off"</constant>
         <constant name="Syslog_29_dlog">"0"</constant>
     </page>
